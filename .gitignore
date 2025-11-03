@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+*.code-workspace
+.env
+*.pem
+id_rsa
+*.key
+secrets*.json
+*.log
